@@ -1,11 +1,10 @@
 import React, { Component } from 'react';
-import '/home/natan/Documentos/repositorios/mycv/node_modules/aos/dist/aos.css';
 import './About.css';
 
-const age = 23;
-const email = "zigaraneliasnatan@gmail.com";
-const adress = "Saavedra 656, Resistencia, Arg.";
-const language = "Spanish, English";
+const age = 30;
+const email = "zigaran114@gmail.com";
+const adress = "AV. 9 de Julio 2050 P.0 D.2 - Resistencia, CH.";
+const language = "Castellano, Inglés.";
 
 class About extends Component {
     render() {
@@ -13,14 +12,15 @@ class About extends Component {
             <div className="about">
                 <div className="aboutDesc paddingDescBlock">
                     <h4 className="title">
-                        About Me
+                        Acerca de Mi
                     </h4>
                     <h6 className="h6">
-                        Hello! I am Elias. Engineering student, Frontend Developer and Pianist in free times. <br /> <br />
+                        Hola!, permitime presentarme brevemente: <br /> <br />
 
-                        Currently i'm in the 4th year of my career. <br />
-                        I consider myself a responsible, proactive, and self-taught person. <br />
-                        I like the team work because it's a source to learn fast about multiple aspects.
+                        Soy nacido en Formosa, capital. Actualmente en Resistencia, Chaco. <br />
+                        Busco la oportunidad de crecer profesionalmente, aportar al <br />
+                        crecimiento y logro de los objetivos dentro de un equipo de trabajo, <br />
+                        dispuesto a aprender, progresar y compartir conocimientos. <br />
                     </h6></div>
                 <div className="basicInfo paddingDescBlock">
                     <h4 className="title">Basic Information</h4>
@@ -28,7 +28,7 @@ class About extends Component {
                     <div className="descBasicInfo">
 
                         <div className="box-data">
-                            <h6 className="title padding h6">AGE:</h6>
+                            <h6 className="title padding h6">EDAD:</h6>
                             <h6 className="h6">{age}</h6>
                         </div>
 
@@ -38,12 +38,12 @@ class About extends Component {
                         </div>
 
                         <div className="box-data">
-                            <h6 className="title padding h6">ADRESS:</h6>
+                            <h6 className="title padding h6">DIRECCION:</h6>
                             <h6 className="h6">{adress}</h6>
                         </div>
 
                         <div className="box-data-whitout-pad">
-                            <h6 className="title padding h6">LANGUAGE:</h6>
+                            <h6 className="title padding h6">IDIOMA:</h6>
                             <h6 className="h6">{language}</h6>
                         </div>
 

@@ -18,7 +18,7 @@ class NavBar extends Component {
       <nav className="navbar navbar-expand-lg navbar-dark" id="nav">
         <ul className="navbar-nav">
           <li className="navbar-nav">
-            <Link activeClass="active" to="perfil" spy={true} smooth={true} offset={-60} duration={1500} className="navbar-brand nav-link" >ZIGARAN ELIAS</Link>
+            <Link activeClass="active" to="perfil" spy={true} smooth={true} offset={-60} duration={1500} className="navbar-brand nav-link" >ZIGARAN EZEQUIEL</Link>
           </li>
         </ul>
 
@@ -29,16 +29,16 @@ class NavBar extends Component {
           <ul className="navbar-nav">
 
             <li className="nav-item">
-              <Link activeClass="active" to="about" spy={true} smooth={true} offset={-180} duration={1500} className="nav-link" >About Me</Link>
+              <Link activeClass="active" to="about" spy={true} smooth={true} offset={-180} duration={1500} className="nav-link" >Acerca de Mi</Link>
             </li>
             <li className="nav-item">
-              <Link activeClass="active" to="education" spy={true} smooth={true} offset={-180} duration={1800} className="nav-link" >Education</Link>
+              <Link activeClass="active" to="education" spy={true} smooth={true} offset={-180} duration={1800} className="nav-link" >Educación</Link>
             </li>
             <li className="nav-item">
-              <Link activeClass="active" to="skills" spy={true} smooth={true} offset={-130} duration={2200} className="nav-link" >Skills</Link>
+              <Link activeClass="active" to="experiencia" spy={true} smooth={true} offset={-130} duration={2200} className="nav-link" >Experiencia Laboral</Link>
             </li>
             <li className="nav-item">
-              <Link activeClass="active" to="portfolio" spy={true} smooth={true} offset={-130} duration={2300} className="nav-link" >Portfolio</Link>
+              <Link activeClass="active" to="skills" spy={true} smooth={true} offset={-130} duration={2300} className="nav-link" >Skills</Link>
             </li>
             <li className="nav-item">
               <Link activeClass="active" to="offTopic" spy={true} smooth={true} offset={-170} duration={2350} className="nav-link" >Off-Topic</Link>

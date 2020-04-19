@@ -1,6 +1,6 @@
 {
-  "homepage": "https://zigaran.github.io/curriculum/",
-  "name": "mycv",
+  "homepage": "https://zigaranEzequiel.github.io/micurriculum/",
+  "name": "curriculum",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
