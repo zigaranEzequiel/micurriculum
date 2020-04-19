@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/micurriculum/static/css/main.f78a8b1e.chunk.css",
-    "main.js": "/micurriculum/static/js/main.02bd86e6.chunk.js",
-    "main.js.map": "/micurriculum/static/js/main.02bd86e6.chunk.js.map",
+    "main.js": "/micurriculum/static/js/main.477626b8.chunk.js",
+    "main.js.map": "/micurriculum/static/js/main.477626b8.chunk.js.map",
     "runtime-main.js": "/micurriculum/static/js/runtime-main.20bc9208.js",
     "runtime-main.js.map": "/micurriculum/static/js/runtime-main.20bc9208.js.map",
     "static/css/2.06f859b2.chunk.css": "/micurriculum/static/css/2.06f859b2.chunk.css",
-    "static/js/2.76562ee6.chunk.js": "/micurriculum/static/js/2.76562ee6.chunk.js",
-    "static/js/2.76562ee6.chunk.js.map": "/micurriculum/static/js/2.76562ee6.chunk.js.map",
+    "static/js/2.63b00df0.chunk.js": "/micurriculum/static/js/2.63b00df0.chunk.js",
+    "static/js/2.63b00df0.chunk.js.map": "/micurriculum/static/js/2.63b00df0.chunk.js.map",
     "index.html": "/micurriculum/index.html",
-    "precache-manifest.081b7718c38a7f89d8be955e442fbf18.js": "/micurriculum/precache-manifest.081b7718c38a7f89d8be955e442fbf18.js",
+    "precache-manifest.8a8a465bdee446b432a66f52fa84be36.js": "/micurriculum/precache-manifest.8a8a465bdee446b432a66f52fa84be36.js",
     "service-worker.js": "/micurriculum/service-worker.js",
     "static/css/2.06f859b2.chunk.css.map": "/micurriculum/static/css/2.06f859b2.chunk.css.map",
     "static/css/main.f78a8b1e.chunk.css.map": "/micurriculum/static/css/main.f78a8b1e.chunk.css.map",
-    "static/js/2.76562ee6.chunk.js.LICENSE.txt": "/micurriculum/static/js/2.76562ee6.chunk.js.LICENSE.txt",
+    "static/js/2.63b00df0.chunk.js.LICENSE.txt": "/micurriculum/static/js/2.63b00df0.chunk.js.LICENSE.txt",
     "static/media/CV_ZigaranREzequiel.pdf": "/micurriculum/static/media/CV_ZigaranREzequiel.6d4eb7e8.pdf",
     "static/media/ProfileImg.png": "/micurriculum/static/media/ProfileImg.fc8e06bc.png",
     "static/media/React.png": "/micurriculum/static/media/React.04557c1b.png",
@@ -24,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.20bc9208.js",
     "static/css/2.06f859b2.chunk.css",
-    "static/js/2.76562ee6.chunk.js",
+    "static/js/2.63b00df0.chunk.js",
     "static/css/main.f78a8b1e.chunk.css",
-    "static/js/main.02bd86e6.chunk.js"
+    "static/js/main.477626b8.chunk.js"
   ]
 }
