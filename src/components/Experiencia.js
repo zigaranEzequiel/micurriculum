@@ -17,6 +17,7 @@ class Experiencia extends Component {
                             <h6 className="h6">2007 - 2008</h6>
                             <h6 className="h6"> <br /> <br /> <br /> <br /> 2011 - 2013</h6>
                             <h6 className="h6"> <br /> <br /> <br /><br /> <br /> <br /> 2015</h6>
+                            <h6 className="h6"> <br /> <br /> <br /><br /> <br /> <br /> 2018 - 2019</h6>
                         </div>
 
                         <div className="titulos-experiencias2">
@@ -24,6 +25,7 @@ class Experiencia extends Component {
                             <h6 className="h6">(Pasantía laboral)</h6>
                             <h6 className="h6"><br /> <br /> <br /> <br /> ATENTO, Telefónica S.A.</h6>
                             <h6 className="h6"><br /> <br /> <br /> <br /> <br /> <br /> ENOHSA</h6>
+                            <h6 className="h6"><br /> <br /> <br /> <br /> <br /> <br /> AYAMIX Hormigones</h6>
                         </div>
 
                         <div className="titulos-experiencias2">
@@ -34,6 +36,7 @@ class Experiencia extends Component {
                             <h6 className="h6"><br /> <br /> <br /> <br />Capacitación de Cooperativas, <br />
                                 Programa Nacional <br />
                                 • Ellas Hacen •</h6>
+                            <h6 className="h6"><br /> <br /> <br /> <br /> <br /> Mantenimiento</h6>
                         </div>
 
                         <div className="titulos-experiencias2">
@@ -47,6 +50,8 @@ class Experiencia extends Component {
 
                             <h6 className="h6 pad1">• Capacitaciones en instalaciones domiciliarias, <br />
                             destinadas a mujeres coperativizadas en situacion de vulnerabilidad</h6>
+
+                            <h6 className="h6 pad1">• Mantenimiento edilicio, equipos de refrigeración e instalaciones eléctricas </h6>
                         </div>
                     </div>
 
