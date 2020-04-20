@@ -122,7 +122,7 @@ export default class YourApp extends Component {
 
         {/* INICIO SECCION "CONTACT" */}
         <div className="contact-container" id="contact" data-aos="fade-up" data-aos-offset="100" data-aos-duration="500" >
-          <h4 className="section">Contact</h4>
+          <h4 className="section">Contáctame</h4>
           <div className="contact-div">
             <div className="contact-section">
             </div>
