@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b67f8d6c26d35fde432c0f7ac060d411",
+    "revision": "52fa684436941470e74f723147bd73e2",
     "url": "/micurriculum/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/micurriculum/static/css/2.06f859b2.chunk.css"
   },
   {
-    "revision": "6d519559f73760094d28",
+    "revision": "43c939be3c5c9fc4e564",
     "url": "/micurriculum/static/css/main.ee6c28a3.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/micurriculum/static/js/2.63b00df0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6d519559f73760094d28",
-    "url": "/micurriculum/static/js/main.b8558c4f.chunk.js"
+    "revision": "43c939be3c5c9fc4e564",
+    "url": "/micurriculum/static/js/main.2df4ad37.chunk.js"
   },
   {
     "revision": "dc94396c65b744b9dc73",
