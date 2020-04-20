@@ -11,7 +11,7 @@ class Skills extends Component {
 
                     <div className="box-progress" data-aos="zoom-in" data-aos-offset="110" data-aos-duration="1200">
                         <h5>Diseño y modelado de piezas 3D</h5>
-                        <Progress className="opacity" percent={60} status="active"
+                        <Progress className="opacity" percent={90} status="active"
                             theme={{
 
                                 active: {
@@ -27,7 +27,7 @@ class Skills extends Component {
 
                     <div className="box-progress" data-aos="zoom-in" data-aos-offset="110" data-aos-duration="1200">
                         <h5>Estudio y proyección de energías renovables</h5>
-                        <Progress className="opacity" percent={60} status="active"
+                        <Progress className="opacity" percent={70} status="active"
                             theme={{
 
                                 active: {
@@ -43,7 +43,7 @@ class Skills extends Component {
 
                     <div className="box-progress" data-aos="zoom-in" data-aos-offset="110" data-aos-duration="1000">
                         <h5>Automatización y control Industrial</h5>
-                        <Progress className="opacity" percent={70} status="active"
+                        <Progress className="opacity" percent={80} status="active"
                             theme={{
 
                                 active: {
@@ -59,7 +59,7 @@ class Skills extends Component {
 
                     <div className="" data-aos="zoom-in" data-aos-offset="110" data-aos-duration="1100">
                         <h5>AutoCad</h5>
-                        <Progress className="opacity" percent={75} status="active"
+                        <Progress className="opacity" percent={90} status="active"
                             theme={{
 
                                 active: {
@@ -84,7 +84,7 @@ class Skills extends Component {
 
                     <div className="box-progress" data-aos="zoom-in" data-aos-offset="110" data-aos-duration="1200">
                         <h5>SolidWorks</h5>
-                        <Progress className="opacity" percent={60} status="active"
+                        <Progress className="opacity" percent={75} status="active"
                             theme={{
 
                                 active: {
@@ -103,7 +103,7 @@ class Skills extends Component {
 
                     <div className="box-progress" data-aos="zoom-in" data-aos-offset="110" data-aos-duration="1050">
                         <h5>MathCad</h5>
-                        <Progress className="opacity" percent={60} status="active"
+                        <Progress className="opacity" percent={85} status="active"
                             theme={{
 
                                 active: {
@@ -119,7 +119,7 @@ class Skills extends Component {
 
                     <div className="box-progress" data-aos="zoom-in" data-aos-offset="110" data-aos-duration="1150">
                         <h5>Excel</h5>
-                        <Progress className="opacity" percent={65} status="active"
+                        <Progress className="opacity" percent={90} status="active"
                             theme={{
 
                                 active: {
@@ -135,7 +135,7 @@ class Skills extends Component {
 
                     <div className="" data-aos="zoom-in" data-aos-offset="110" data-aos-duration="1250">
                         <h5>Herramientas texto/presentaciones</h5>
-                        <Progress className="opacity" percent={100} status="active"
+                        <Progress className="opacity" percent={90} status="active"
                             theme={{
 
                                 active: {

@@ -18,8 +18,8 @@ class About extends Component {
                         Hola!, permitime presentarme brevemente: <br /> <br />
 
                         Soy nacido en Formosa, capital. Actualmente en Resistencia, Chaco. <br />
-                        Busco la oportunidad de crecer profesionalmente, aportar al <br />
-                        crecimiento y logro de los objetivos dentro de un equipo de trabajo, <br />
+                        Busco la oportunidad de crecer profesionalmente, aportar al
+                        crecimiento y logro de los objetivos dentro de un equipo de trabajo,
                         dispuesto a aprender, progresar y compartir conocimientos. <br />
                     </h6></div>
                 <div className="basicInfo paddingDescBlock">
