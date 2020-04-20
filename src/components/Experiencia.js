@@ -122,7 +122,7 @@ class Experiencia extends Component {
                     <div className="centro">
                         <h6 className="title">Actualmente</h6>
                         <h6 style={{ textDecoration: "underline" }}>Konecta</h6>
-                        <h6> Sopórte Técnico</h6>
+                        <h6> Soporte Técnico</h6>
                         <h6>• Atención al Cliente</h6>
                         <h6>• Soporte técnico de telefonía, cable TV e internet.</h6>
                     </div>

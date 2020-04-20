@@ -23,7 +23,7 @@ class About extends Component {
                         dispuesto a aprender, progresar y compartir conocimientos. <br />
                     </h6></div>
                 <div className="basicInfo paddingDescBlock">
-                    <h4 className="title">Basic Information</h4>
+                    <h4 className="title">Información Básica</h4>
 
                     <div className="descBasicInfo">
 
